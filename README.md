@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+![Logo](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020.png)
+
 
 - 🌱 I’m currently learning **HTML,CSS and JavaScript**
 
